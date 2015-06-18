@@ -1,0 +1,6 @@
+C:\softUni\C++\DiamondMine\DiamondMine\bin\Debug\DiamondMine.exe.config
+C:\softUni\C++\DiamondMine\DiamondMine\obj\Debug\DiamondMine.csprojResolveAssemblyReference.cache
+C:\softUni\C++\DiamondMine\DiamondMine\bin\Debug\DiamondMine.exe
+C:\softUni\C++\DiamondMine\DiamondMine\bin\Debug\DiamondMine.pdb
+C:\softUni\C++\DiamondMine\DiamondMine\obj\Debug\DiamondMine.exe
+C:\softUni\C++\DiamondMine\DiamondMine\obj\Debug\DiamondMine.pdb
